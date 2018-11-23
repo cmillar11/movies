@@ -71,21 +71,91 @@ function readCSVFile (inputPath, cb) {
 }
 
 function main () {
+
+    // there's probably a better way to keep track of years?
+    const years = ['2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']; 
+
     readCSVFile(moviesListPath, function getMovieNames(err, result) {
         const movieNames = $.csv.toObjects(result);
-        for (let i = 0; i < 10; i++) {
-            googleTrends.interestOverTime({keyword: movieNames[i].name})
-                .then(function(results){
-                    const data = '{'.concat('\'',movieNames[i].name, '\'', ':', results, '},\n');
-                    console.log(data) 
-                    fs.appendFile(__dirname + '/data/my_file.json', data, (err) => {
-                        if (err) throw err;
-                        console.log('appended!')
-                    })               
-                })
-                .catch(function(err){
-                    //console.error('Oh no there was an error', err);
-                });      
+
+        let dataObj = {};
+        
+        // iterating through movies
+        for (let i = 0; i < 1; i++) {
+            // googleTrends.interestOverTime({keyword: movieNames[i].Name})
+            //     .then(function(results){
+            //         const data = '{'.concat('\'',movieNames[i].Name, '\'', ':', results, '},\n');
+            //         console.log(typeof data) 
+            //         fs.appendFile(__dirname + '/data/my_file.json', data, (err) => {
+            //             if (err) throw err;
+            //             console.log('appended!')
+            //         })               
+            //     })
+            //     .catch(function(err){
+            //         //console.error('Oh no there was an error', err);
+            //     });   
+                
+            // iterating through year ranges
+            dataObj[movieNames[i].Name] = [];
+            for (let y = 0; y < years.length - 1; y++) {
+
+                // assign the promise itself to the global varialbe
+                let yearRow = googleTrends.interestByRegion({keyword: movieNames[i].Name, startTime: new Date(years[y]), endTime: new Date(years[y + 1]), geo: 'US', resolution: 'DMA'})
+                    .then((results) => { 
+                        // console.log('data obj at beginning of then', dataObj)
+                        //console.log(results)
+                        const obj = JSON.parse(results)
+                        // console.log(obj)
+                        // console.log(obj.default.geoMapData)
+                        let yearRow = {};
+                        yearRow[years[y]] = obj.default.geoMapData;
+                        // let movieRow = {movieNames[i].Name: };
+
+                        dataObj[movieNames[i].Name].push(yearRow);
+
+                        //console.log(dataObj[movieNames[i].Name]);
+                        //console.log(yearRow) 
+                        // console.log(JSON.stringify(dataObj)) 
+                        // console.log(dataObj)
+                        // const data = '{'.concat('\'', 'Donald Trump', '\'', ':', results, '},\n');
+                        //const data = '{'.concat('\'', movieNames[i].Name, '\'', ':', dataObj, '},\n');
+                        // console.log('dataObj is ', JSON.stringify(dataObj[movieNames[i].Name]));
+                        if (y == years.length - 2) {
+                            // on last year range, so write object to file
+                            fs.appendFile(__dirname + '/data/my_file.json', JSON.stringify(dataObj), (err) => {
+                                if (err) throw err;
+                                console.log('appended!')
+                        })  
+
+                        }
+                    })
+                    .catch((err) => {
+                        console.log(err);
+                    })
+
+                    // setTimeout(()=>{
+                    //     console.log('year row is ', yearRow);
+                    //     dataObj[movieNames[i].Name].push(yearRow);
+                    //     console.log(JSON.stringify(dataObj)) 
+                    // });
+    
+                    // console.log('after single promise')
+
+                    // let thenProm = resolvedProm.then((value)=>{
+                    //     console.log("this gets called after the end of the main stack. the value received and returned is: " + value);
+                    //     return value;
+                    // });
+            }
+
+            // console.log(dataObj)
+            // console.log(JSON.stringify(dataObj)) 
+
+            // append to file after all movies over all time ranges have been added into a JSON object, dataObj
+            // console.log('final data obj')
+            // fs.appendFile(__dirname + '/data/my_file.json', JSON.stringify(dataObj), (err) => {
+            //     if (err) throw err;
+            //     console.log('appended!')
+            // })  
         }
     })
 }
