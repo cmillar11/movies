@@ -62,7 +62,7 @@ Goes through the rows of each csv file and puts them together.
 // }
 
 function readCSVFile (inputPath, cb) {
- fs.readFile(inputPath, 'utf8', function (err, fileData) {
+  fs.readFile(inputPath, 'utf8', function (err, fileData) {
     if (err) {
         throw err;
     }
@@ -70,12 +70,12 @@ function readCSVFile (inputPath, cb) {
   })   
 }
 
-function main () {
+async function main () {
 
     // there's probably a better way to keep track of time but it works
     const years = ['2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']; 
 
-    readCSVFile(moviesListPath, function getMovieNames(err, result) {
+    readCSVFile(moviesListPath, async function getMovieNames(err, result) {
         const movieNames = $.csv.toObjects(result);
 
         movieNames.forEach(movie => {
@@ -88,7 +88,7 @@ function main () {
 
             for (let y = 0; y < years.length - 1; y++) { // iterating through years
 
-                googleTrends.interestByRegion({keyword: movieNames[i].Name, startTime: new Date(years[y]), endTime: new Date(years[y+1]), geo: 'US', resolution: 'DMA'})
+                await googleTrends.interestByRegion({keyword: movieNames[i].Name, startTime: new Date(years[y]), endTime: new Date(years[y+1]), geo: 'US', resolution: 'REGION'})
                     .then((results) => { 
                         const obj = JSON.parse(results)
                         let yearRow = {};
@@ -98,7 +98,7 @@ function main () {
 
                         // on last movie and range of years, so write object containing all accumulated results to file
                         if (i == 0 && y == years.length - 2) {
-                            console.log('data being written ', JSON.stringify(dataObj));
+                            console.log('data being written ', dataObj);
                             fs.appendFile(__dirname + '/data/my_file.json', JSON.stringify(dataObj), (err) => {
                                 if (err) throw err;
                                 console.log('appended!')
