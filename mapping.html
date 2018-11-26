@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>US Map of Nielsen Media Markets</title>
+    <link rel="stylesheet" href="mapping.css">
+    <link rel="icon" 
+      type="image/svg" 
+      href="images/favicon.svg">
+</head>
+<body>
+    
+    <h2 class="title" id="movieTitle"> Alice in Wonderland, 2004 <br> </h2> 
+    <div class="sliderBox">
+      <div class="col-sm-2">
+        <p id="value3"></p>
+      </div>
+      <div class="col-sm">
+        <div id="slider3"></div>
+      </div>
+    </div>
+    <a id="setValue3" href="#">Reset</a>
+    <div id="textbox"></div>
+    <svg id="map" width="960" height="500"></svg>
+    <script	src="http://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+    <script src="https://unpkg.com/d3-simple-slider/build/d3-simple-slider.js"></script>
+    <script src="mapping-controller.js"></script>
+</body>
+</html>

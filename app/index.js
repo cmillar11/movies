@@ -3,6 +3,7 @@
 const fs = require('fs')
 const path = require('path')
 var parse = require('csv-parse')
+var os = require("os")
 
 const googleTrends = require('google-trends-api')
 const $ = jQuery = require('jquery')
@@ -62,6 +63,7 @@ Goes through the rows of each csv file and puts them together.
 // }
 
 function readCSVFile (inputPath, cb) {
+    
  fs.readFile(inputPath, 'utf8', function (err, fileData) {
     if (err) {
         throw err;
@@ -71,13 +73,15 @@ function readCSVFile (inputPath, cb) {
 }
 
 function main () {
+    
     readCSVFile(moviesListPath, function getMovieNames(err, result) {
         const movieNames = $.csv.toObjects(result);
         for (let i = 0; i < 10; i++) {
-            googleTrends.interestOverTime({keyword: movieNames[i].name})
+            googleTrends.interestOverTime({keyword: movieNames[i].Name})
                 .then(function(results){
-                    const data = '{'.concat('\'',movieNames[i].name, '\'', ':', results, '},\n');
-                    console.log(data) 
+                    console.log(results)
+                    const data = '{'.concat('\'',movieNames[i].Name, '\'', ':', results, '},\n');
+                    //console.log(data) 
                     fs.appendFile(__dirname + '/data/my_file.json', data, (err) => {
                         if (err) throw err;
                         console.log('appended!')
