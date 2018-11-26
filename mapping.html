@@ -10,7 +10,9 @@
 </head>
 <body>
     
-    <h2 class="title" id="movieTitle"> Alice in Wonderland, 2004 <br> </h2> 
+    <h2 class="title" id="movieTitle"> Alice in Wonderland </h2> 
+    <output name="year" id="yearLabel">2004</output>
+<!--
     <div class="sliderBox">
       <div class="col-sm-2">
         <p id="value3"></p>
@@ -20,6 +22,11 @@
       </div>
     </div>
     <a id="setValue3" href="#">Reset</a>
+-->
+    <button class="filterbutton" id="2004" onclick="updateMap(this); yearLabel.value=2004" > 2004 </button>
+    <button class="filterbutton" id="2005" onclick="updateMap(this); yearLabel.value=2005" > 2005 </button>
+    <button class="filterbutton" id="2012" onclick="updateMap(this); yearLabel.value=2012" > 2012 </button>
+    <button class="filterbutton" id="2017" onclick="updateMap(this); yearLabel.value=2017" > 2017 </button>
     <div id="textbox"></div>
     <svg id="map" width="960" height="500"></svg>
     <script	src="http://d3js.org/d3.v5.min.js"></script>
