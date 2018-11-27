@@ -33,12 +33,13 @@ async function main () {
         movieNames.forEach(movie => {
             movie.Name = movie.Name.slice(0, movie.Name.indexOf('('))
         })
+        const handpickedMovies = ['Life of Pi', 'Interstellar']
         let dataObj = {};
 
-        for (let i = 0; i < 1; i++) { // iterating through movies
+        for (let i = 0; i < 2; i++) { // iterating through movies
             // setTimeout(function(){ console.log('wait!') }, 250);
 
-            dataObj[movieNames[i].Name] = [];
+            dataObj[handpickedMovies[i]] = [];
 
             for (let y = 0; y < years.length - 1; y++) { // iterating through years
 
@@ -47,7 +48,7 @@ async function main () {
                         const obj = JSON.parse(results)
                         let yearRow = {};
                         yearRow[years[y]] = obj.default.geoMapData;
-                        dataObj[movieNames[i].Name].push(yearRow);
+                        dataObj[handpickedMovies[i]].push(yearRow);
                         // console.log('modified data obj movie ', JSON.stringify(dataObj[movieNames[i].Name]));
 
                         // on last movie and range of years, so write object containing all accumulated results to file
