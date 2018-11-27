@@ -33,10 +33,10 @@ async function main () {
         movieNames.forEach(movie => {
             movie.Name = movie.Name.slice(0, movie.Name.indexOf('('))
         })
-        const handpickedMovies = ['Life of Pi', 'Interstellar']
+        const handpickedMovies = ['Black Swan']
         let dataObj = {};
 
-        for (let i = 0; i < 2; i++) { // iterating through movies
+        for (let i = 0; i < 1; i++) { // iterating through movies
             // setTimeout(function(){ console.log('wait!') }, 250);
 
             dataObj[handpickedMovies[i]] = [];

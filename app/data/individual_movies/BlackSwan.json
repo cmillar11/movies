@@ -1,6 +1,5 @@
 {
-    "Finding Nemo": [{
-        "genre": ["Adventure", "Comedy"],
+    "Black Swan": [{
         "2004": [{
             "geoCode": "771",
             "geoName": "Yuma AZ-El Centro CA",
@@ -1490,8 +1489,8 @@
         }, {
             "geoCode": "766",
             "geoName": "Helena MT",
-            "value": [61],
-            "formattedValue": ["61"],
+            "value": [60],
+            "formattedValue": ["60"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1504,15 +1503,15 @@
         }, {
             "geoCode": "767",
             "geoName": "Casper-Riverton WY",
-            "value": [57],
-            "formattedValue": ["57"],
+            "value": [56],
+            "formattedValue": ["56"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "760",
             "geoName": "Twin Falls ID",
-            "value": [55],
-            "formattedValue": ["55"],
+            "value": [54],
+            "formattedValue": ["54"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1525,43 +1524,43 @@
         }, {
             "geoCode": "610",
             "geoName": "Rockford IL",
-            "value": [53],
-            "formattedValue": ["53"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "631",
-            "geoName": "Ottumwa IA-Kirksville MO",
-            "value": [53],
-            "formattedValue": ["53"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "526",
-            "geoName": "Utica NY",
-            "value": [53],
-            "formattedValue": ["53"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "771",
-            "geoName": "Yuma AZ-El Centro CA",
             "value": [52],
             "formattedValue": ["52"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
+            "geoCode": "631",
+            "geoName": "Ottumwa IA-Kirksville MO",
+            "value": [52],
+            "formattedValue": ["52"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "526",
+            "geoName": "Utica NY",
+            "value": [52],
+            "formattedValue": ["52"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "771",
+            "geoName": "Yuma AZ-El Centro CA",
+            "value": [51],
+            "formattedValue": ["51"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
             "geoCode": "549",
             "geoName": "Watertown NY",
-            "value": [48],
-            "formattedValue": ["48"],
+            "value": [46],
+            "formattedValue": ["46"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "569",
             "geoName": "Harrisonburg VA",
-            "value": [46],
-            "formattedValue": ["46"],
+            "value": [45],
+            "formattedValue": ["45"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1574,8 +1573,8 @@
         }, {
             "geoCode": "802",
             "geoName": "Eureka CA",
-            "value": [42],
-            "formattedValue": ["42"],
+            "value": [41],
+            "formattedValue": ["41"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1602,15 +1601,15 @@
         }, {
             "geoCode": "636",
             "geoName": "Harlingen-Weslaco-Brownsville-McAllen TX",
-            "value": [37],
-            "formattedValue": ["37"],
+            "value": [36],
+            "formattedValue": ["36"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "657",
             "geoName": "Sherman TX-Ada OK",
-            "value": [37],
-            "formattedValue": ["37"],
+            "value": [36],
+            "formattedValue": ["36"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1630,13 +1629,6 @@
         }, {
             "geoCode": "537",
             "geoName": "Bangor ME",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "758",
-            "geoName": "Idaho Falls-Pocatello ID",
             "value": [33],
             "formattedValue": ["33"],
             "maxValueIndex": 0,
@@ -1644,6 +1636,13 @@
         }, {
             "geoCode": "755",
             "geoName": "Great Falls MT",
+            "value": [33],
+            "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "758",
+            "geoName": "Idaho Falls-Pocatello ID",
             "value": [33],
             "formattedValue": ["33"],
             "maxValueIndex": 0,
@@ -1665,8 +1664,8 @@
         }, {
             "geoCode": "800",
             "geoName": "Bakersfield CA",
-            "value": [29],
-            "formattedValue": ["29"],
+            "value": [28],
+            "formattedValue": ["28"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1686,13 +1685,6 @@
         }, {
             "geoCode": "634",
             "geoName": "Amarillo TX",
-            "value": [27],
-            "formattedValue": ["27"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "600",
-            "geoName": "Corpus Christi TX",
             "value": [26],
             "formattedValue": ["26"],
             "maxValueIndex": 0,
@@ -1705,22 +1697,22 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "598",
-            "geoName": "Clarksburg-Weston WV",
+            "geoCode": "600",
+            "geoName": "Corpus Christi TX",
             "value": [26],
             "formattedValue": ["26"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "598",
+            "geoName": "Clarksburg-Weston WV",
+            "value": [25],
+            "formattedValue": ["25"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "642",
             "geoName": "Lafayette LA",
-            "value": [26],
-            "formattedValue": ["26"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "521",
-            "geoName": "Providence RI-New Bedford MA",
             "value": [25],
             "formattedValue": ["25"],
             "maxValueIndex": 0,
@@ -1733,15 +1725,22 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "575",
-            "geoName": "Chattanooga TN",
+            "geoCode": "588",
+            "geoName": "South Bend-Elkhart IN",
             "value": [25],
             "formattedValue": ["25"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "588",
-            "geoName": "South Bend-Elkhart IN",
+            "geoCode": "521",
+            "geoName": "Providence RI-New Bedford MA",
+            "value": [25],
+            "formattedValue": ["25"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "575",
+            "geoName": "Chattanooga TN",
             "value": [25],
             "formattedValue": ["25"],
             "maxValueIndex": 0,
@@ -1754,13 +1753,6 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "574",
-            "geoName": "Johnstown-Altoona PA",
-            "value": [25],
-            "formattedValue": ["25"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
             "geoCode": "553",
             "geoName": "Marquette MI",
             "value": [25],
@@ -1768,17 +1760,31 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "717",
-            "geoName": "Quincy IL-Hannibal MO-Keokuk IA",
-            "value": [25],
-            "formattedValue": ["25"],
+            "geoCode": "574",
+            "geoName": "Johnstown-Altoona PA",
+            "value": [24],
+            "formattedValue": ["24"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "543",
             "geoName": "Springfield-Holyoke MA",
-            "value": [25],
-            "formattedValue": ["25"],
+            "value": [24],
+            "formattedValue": ["24"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "717",
+            "geoName": "Quincy IL-Hannibal MO-Keokuk IA",
+            "value": [24],
+            "formattedValue": ["24"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "828",
+            "geoName": "Monterey-Salinas CA",
+            "value": [24],
+            "formattedValue": ["24"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1791,13 +1797,6 @@
         }, {
             "geoCode": "765",
             "geoName": "El Paso TX",
-            "value": [24],
-            "formattedValue": ["24"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "828",
-            "geoName": "Monterey-Salinas CA",
             "value": [24],
             "formattedValue": ["24"],
             "maxValueIndex": 0,
@@ -1819,15 +1818,15 @@
         }, {
             "geoCode": "561",
             "geoName": "Jacksonville FL",
-            "value": [23],
-            "formattedValue": ["23"],
+            "value": [22],
+            "formattedValue": ["22"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "862",
             "geoName": "Sacramento-Stockton-Modesto CA",
-            "value": [23],
-            "formattedValue": ["23"],
+            "value": [22],
+            "formattedValue": ["22"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1840,8 +1839,8 @@
         }, {
             "geoCode": "671",
             "geoName": "Tulsa OK",
-            "value": [22],
-            "formattedValue": ["22"],
+            "value": [21],
+            "formattedValue": ["21"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1854,8 +1853,8 @@
         }, {
             "geoCode": "746",
             "geoName": "Biloxi-Gulfport MS",
-            "value": [21],
-            "formattedValue": ["21"],
+            "value": [20],
+            "formattedValue": ["20"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1889,22 +1888,22 @@
         }, {
             "geoCode": "754",
             "geoName": "Butte-Bozeman MT",
-            "value": [20],
-            "formattedValue": ["20"],
+            "value": [19],
+            "formattedValue": ["19"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "651",
             "geoName": "Lubbock TX",
-            "value": [20],
-            "formattedValue": ["20"],
+            "value": [19],
+            "formattedValue": ["19"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "736",
             "geoName": "Bowling Green KY",
-            "value": [20],
-            "formattedValue": ["20"],
+            "value": [19],
+            "formattedValue": ["19"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -1936,27 +1935,6 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "764",
-            "geoName": "Rapid City SD",
-            "value": [19],
-            "formattedValue": ["19"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "581",
-            "geoName": "Terre Haute IN",
-            "value": [19],
-            "formattedValue": ["19"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "523",
-            "geoName": "Burlington VT-Plattsburgh NY",
-            "value": [19],
-            "formattedValue": ["19"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
             "geoCode": "573",
             "geoName": "Roanoke-Lynchburg VA",
             "value": [19],
@@ -1964,22 +1942,36 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
+            "geoCode": "581",
+            "geoName": "Terre Haute IN",
+            "value": [18],
+            "formattedValue": ["18"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "523",
+            "geoName": "Burlington VT-Plattsburgh NY",
+            "value": [18],
+            "formattedValue": ["18"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "764",
+            "geoName": "Rapid City SD",
+            "value": [18],
+            "formattedValue": ["18"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
             "geoCode": "718",
             "geoName": "Jackson MS",
-            "value": [19],
-            "formattedValue": ["19"],
+            "value": [18],
+            "formattedValue": ["18"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "555",
             "geoName": "Syracuse NY",
-            "value": [19],
-            "formattedValue": ["19"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "509",
-            "geoName": "Ft. Wayne IN",
             "value": [18],
             "formattedValue": ["18"],
             "maxValueIndex": 0,
@@ -1987,6 +1979,13 @@
         }, {
             "geoCode": "825",
             "geoName": "San Diego CA",
+            "value": [18],
+            "formattedValue": ["18"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "509",
+            "geoName": "Ft. Wayne IN",
             "value": [18],
             "formattedValue": ["18"],
             "maxValueIndex": 0,
@@ -2029,22 +2028,22 @@
         }, {
             "geoCode": "803",
             "geoName": "Los Angeles CA",
-            "value": [18],
-            "formattedValue": ["18"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "821",
-            "geoName": "Bend OR",
-            "value": [18],
-            "formattedValue": ["18"],
+            "value": [17],
+            "formattedValue": ["17"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "691",
             "geoName": "Huntsville-Decatur (Florence) AL",
-            "value": [18],
-            "formattedValue": ["18"],
+            "value": [17],
+            "formattedValue": ["17"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "821",
+            "geoName": "Bend OR",
+            "value": [17],
+            "formattedValue": ["17"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -2064,20 +2063,13 @@
         }, {
             "geoCode": "790",
             "geoName": "Albuquerque-Santa Fe NM",
-            "value": [17],
-            "formattedValue": ["17"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "550",
-            "geoName": "Wilmington NC",
             "value": [16],
             "formattedValue": ["16"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "556",
-            "geoName": "Richmond-Petersburg VA",
+            "geoCode": "550",
+            "geoName": "Wilmington NC",
             "value": [16],
             "formattedValue": ["16"],
             "maxValueIndex": 0,
@@ -2090,8 +2082,8 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "751",
-            "geoName": "Denver CO",
+            "geoCode": "556",
+            "geoName": "Richmond-Petersburg VA",
             "value": [16],
             "formattedValue": ["16"],
             "maxValueIndex": 0,
@@ -2099,6 +2091,13 @@
         }, {
             "geoCode": "570",
             "geoName": "Florence-Myrtle Beach SC",
+            "value": [16],
+            "formattedValue": ["16"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "751",
+            "geoName": "Denver CO",
             "value": [16],
             "formattedValue": ["16"],
             "maxValueIndex": 0,
@@ -2113,8 +2112,8 @@
         }, {
             "geoCode": "517",
             "geoName": "Charlotte NC",
-            "value": [16],
-            "formattedValue": ["16"],
+            "value": [15],
+            "formattedValue": ["15"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -2146,13 +2145,6 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "669",
-            "geoName": "Madison WI",
-            "value": [15],
-            "formattedValue": ["15"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
             "geoCode": "542",
             "geoName": "Dayton OH",
             "value": [15],
@@ -2167,6 +2159,13 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
+            "geoCode": "669",
+            "geoName": "Madison WI",
+            "value": [15],
+            "formattedValue": ["15"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
             "geoCode": "650",
             "geoName": "Oklahoma City OK",
             "value": [15],
@@ -2176,29 +2175,29 @@
         }, {
             "geoCode": "656",
             "geoName": "Panama City FL",
-            "value": [15],
-            "formattedValue": ["15"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "541",
-            "geoName": "Lexington KY",
-            "value": [15],
-            "formattedValue": ["15"],
+            "value": [14],
+            "formattedValue": ["14"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "819",
             "geoName": "Seattle-Tacoma WA",
-            "value": [15],
-            "formattedValue": ["15"],
+            "value": [14],
+            "formattedValue": ["14"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "512",
             "geoName": "Baltimore MD",
-            "value": [15],
-            "formattedValue": ["15"],
+            "value": [14],
+            "formattedValue": ["14"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "541",
+            "geoName": "Lexington KY",
+            "value": [14],
+            "formattedValue": ["14"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -2216,8 +2215,8 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "612",
-            "geoName": "Shreveport LA",
+            "geoCode": "675",
+            "geoName": "Peoria-Bloomington IL",
             "value": [14],
             "formattedValue": ["14"],
             "maxValueIndex": 0,
@@ -2230,8 +2229,8 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "675",
-            "geoName": "Peoria-Bloomington IL",
+            "geoCode": "612",
+            "geoName": "Shreveport LA",
             "value": [14],
             "formattedValue": ["14"],
             "maxValueIndex": 0,
@@ -2251,17 +2250,17 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "752",
-            "geoName": "Colorado Springs-Pueblo CO",
-            "value": [14],
-            "formattedValue": ["14"],
+            "geoCode": "698",
+            "geoName": "Montgomery (Selma) AL",
+            "value": [13],
+            "formattedValue": ["13"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "698",
-            "geoName": "Montgomery (Selma) AL",
-            "value": [14],
-            "formattedValue": ["14"],
+            "geoCode": "752",
+            "geoName": "Colorado Springs-Pueblo CO",
+            "value": [13],
+            "formattedValue": ["13"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -2279,15 +2278,15 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "630",
-            "geoName": "Birmingham AL",
+            "geoCode": "625",
+            "geoName": "Waco-Temple-Bryan TX",
             "value": [13],
             "formattedValue": ["13"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "753",
-            "geoName": "Phoenix AZ",
+            "geoCode": "630",
+            "geoName": "Birmingham AL",
             "value": [13],
             "formattedValue": ["13"],
             "maxValueIndex": 0,
@@ -2300,15 +2299,8 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "743",
-            "geoName": "Anchorage AK",
-            "value": [13],
-            "formattedValue": ["13"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "625",
-            "geoName": "Waco-Temple-Bryan TX",
+            "geoCode": "753",
+            "geoName": "Phoenix AZ",
             "value": [13],
             "formattedValue": ["13"],
             "maxValueIndex": 0,
@@ -2316,6 +2308,20 @@
         }, {
             "geoCode": "807",
             "geoName": "San Francisco-Oakland-San Jose CA",
+            "value": [13],
+            "formattedValue": ["13"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "743",
+            "geoName": "Anchorage AK",
+            "value": [13],
+            "formattedValue": ["13"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "515",
+            "geoName": "Cincinnati OH",
             "value": [13],
             "formattedValue": ["13"],
             "maxValueIndex": 0,
@@ -2335,20 +2341,6 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "515",
-            "geoName": "Cincinnati OH",
-            "value": [13],
-            "formattedValue": ["13"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "866",
-            "geoName": "Fresno-Visalia CA",
-            "value": [13],
-            "formattedValue": ["13"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
             "geoCode": "540",
             "geoName": "Traverse City-Cadillac MI",
             "value": [13],
@@ -2358,6 +2350,13 @@
         }, {
             "geoCode": "510",
             "geoName": "Cleveland-Akron (Canton) OH",
+            "value": [13],
+            "formattedValue": ["13"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "866",
+            "geoName": "Fresno-Visalia CA",
             "value": [13],
             "formattedValue": ["13"],
             "maxValueIndex": 0,
@@ -2379,22 +2378,22 @@
         }, {
             "geoCode": "516",
             "geoName": "Erie PA",
-            "value": [13],
-            "formattedValue": ["13"],
+            "value": [12],
+            "formattedValue": ["12"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "770",
             "geoName": "Salt Lake City UT",
-            "value": [13],
-            "formattedValue": ["13"],
+            "value": [12],
+            "formattedValue": ["12"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "616",
             "geoName": "Kansas City MO",
-            "value": [13],
-            "formattedValue": ["13"],
+            "value": [12],
+            "formattedValue": ["12"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -2440,15 +2439,15 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "617",
-            "geoName": "Milwaukee WI",
+            "geoCode": "687",
+            "geoName": "Minot-Bismarck-Dickinson(Williston) ND",
             "value": [12],
             "formattedValue": ["12"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "687",
-            "geoName": "Minot-Bismarck-Dickinson(Williston) ND",
+            "geoCode": "617",
+            "geoName": "Milwaukee WI",
             "value": [12],
             "formattedValue": ["12"],
             "maxValueIndex": 0,
@@ -2470,15 +2469,15 @@
         }, {
             "geoCode": "536",
             "geoName": "Youngstown OH",
-            "value": [12],
-            "formattedValue": ["12"],
+            "value": [11],
+            "formattedValue": ["11"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "639",
             "geoName": "Jackson TN",
-            "value": [12],
-            "formattedValue": ["12"],
+            "value": [11],
+            "formattedValue": ["11"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -2524,8 +2523,8 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "520",
-            "geoName": "Augusta GA",
+            "geoCode": "506",
+            "geoName": "Boston MA-Manchester NH",
             "value": [11],
             "formattedValue": ["11"],
             "maxValueIndex": 0,
@@ -2538,22 +2537,8 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "506",
-            "geoName": "Boston MA-Manchester NH",
-            "value": [11],
-            "formattedValue": ["11"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "611",
-            "geoName": "Rochester MN-Mason City IA-Austin MN",
-            "value": [11],
-            "formattedValue": ["11"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "678",
-            "geoName": "Wichita-Hutchinson KS",
+            "geoCode": "520",
+            "geoName": "Augusta GA",
             "value": [11],
             "formattedValue": ["11"],
             "maxValueIndex": 0,
@@ -2566,8 +2551,8 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "533",
-            "geoName": "Hartford & New Haven CT",
+            "geoCode": "611",
+            "geoName": "Rochester MN-Mason City IA-Austin MN",
             "value": [11],
             "formattedValue": ["11"],
             "maxValueIndex": 0,
@@ -2580,10 +2565,24 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "619",
-            "geoName": "Springfield MO",
+            "geoCode": "678",
+            "geoName": "Wichita-Hutchinson KS",
             "value": [11],
             "formattedValue": ["11"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "533",
+            "geoName": "Hartford & New Haven CT",
+            "value": [11],
+            "formattedValue": ["11"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "619",
+            "geoName": "Springfield MO",
+            "value": [10],
+            "formattedValue": ["10"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -2615,15 +2614,15 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "535",
-            "geoName": "Columbus OH",
+            "geoCode": "652",
+            "geoName": "Omaha NE",
             "value": [10],
             "formattedValue": ["10"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "652",
-            "geoName": "Omaha NE",
+            "geoCode": "535",
+            "geoName": "Columbus OH",
             "value": [10],
             "formattedValue": ["10"],
             "maxValueIndex": 0,
@@ -2652,8 +2651,8 @@
         }, {
             "geoCode": "744",
             "geoName": "Honolulu HI",
-            "value": [10],
-            "formattedValue": ["10"],
+            "value": [9],
+            "formattedValue": ["9"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -2694,8 +2693,8 @@
         }, {
             "geoCode": "546",
             "geoName": "Columbia SC",
-            "value": [9],
-            "formattedValue": ["9"],
+            "value": [8],
+            "formattedValue": ["8"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -2736,8 +2735,8 @@
         }, {
             "geoCode": "566",
             "geoName": "Harrisburg-Lancaster-Lebanon-York PA",
-            "value": [7],
-            "formattedValue": ["7"],
+            "value": [6],
+            "formattedValue": ["6"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -7362,185 +7361,80 @@
         }]
     }, {
         "2009": [{
-            "geoCode": "749",
-            "geoName": "Laredo TX",
+            "geoCode": "771",
+            "geoName": "Yuma AZ-El Centro CA",
             "value": [100],
             "formattedValue": ["100"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "638",
-            "geoName": "St. Joseph MO",
-            "value": [83],
-            "formattedValue": ["83"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "710",
-            "geoName": "Hattiesburg-Laurel MS",
-            "value": [81],
-            "formattedValue": ["81"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "771",
-            "geoName": "Yuma AZ-El Centro CA",
-            "value": [77],
-            "formattedValue": ["77"],
+            "geoCode": "559",
+            "geoName": "Bluefield-Beckley-Oak Hill WV",
+            "value": [75],
+            "formattedValue": ["75"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "657",
             "geoName": "Sherman TX-Ada OK",
-            "value": [74],
-            "formattedValue": ["74"],
+            "value": [73],
+            "formattedValue": ["73"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "749",
+            "geoName": "Laredo TX",
+            "value": [70],
+            "formattedValue": ["70"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "710",
+            "geoName": "Hattiesburg-Laurel MS",
+            "value": [63],
+            "formattedValue": ["63"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "802",
             "geoName": "Eureka CA",
-            "value": [69],
-            "formattedValue": ["69"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "564",
-            "geoName": "Charleston-Huntington WV",
             "value": [60],
             "formattedValue": ["60"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "536",
-            "geoName": "Youngstown OH",
-            "value": [59],
-            "formattedValue": ["59"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "767",
-            "geoName": "Casper-Riverton WY",
-            "value": [59],
-            "formattedValue": ["59"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "855",
-            "geoName": "Santa Barbara-Santa Maria-San Luis Obispo CA",
-            "value": [59],
-            "formattedValue": ["59"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "673",
-            "geoName": "Columbus-Tupelo-West Point MS",
-            "value": [58],
-            "formattedValue": ["58"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "765",
-            "geoName": "El Paso TX",
-            "value": [58],
-            "formattedValue": ["58"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "636",
-            "geoName": "Harlingen-Weslaco-Brownsville-McAllen TX",
-            "value": [57],
-            "formattedValue": ["57"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "804",
-            "geoName": "Palm Springs CA",
-            "value": [57],
-            "formattedValue": ["57"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "569",
-            "geoName": "Harrisonburg VA",
-            "value": [56],
-            "formattedValue": ["56"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "828",
-            "geoName": "Monterey-Salinas CA",
-            "value": [56],
-            "formattedValue": ["56"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "526",
-            "geoName": "Utica NY",
-            "value": [56],
-            "formattedValue": ["56"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "839",
-            "geoName": "Las Vegas NV",
-            "value": [56],
-            "formattedValue": ["56"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "670",
-            "geoName": "Ft. Smith-Fayetteville-Springdale-Rogers AR",
+            "geoCode": "638",
+            "geoName": "St. Joseph MO",
             "value": [55],
             "formattedValue": ["55"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "600",
-            "geoName": "Corpus Christi TX",
-            "value": [55],
-            "formattedValue": ["55"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "770",
-            "geoName": "Salt Lake City UT",
-            "value": [55],
-            "formattedValue": ["55"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "598",
-            "geoName": "Clarksburg-Weston WV",
-            "value": [53],
-            "formattedValue": ["53"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "800",
-            "geoName": "Bakersfield CA",
-            "value": [53],
-            "formattedValue": ["53"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "745",
-            "geoName": "Fairbanks AK",
-            "value": [53],
-            "formattedValue": ["53"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "553",
             "geoName": "Marquette MI",
-            "value": [53],
-            "formattedValue": ["53"],
+            "value": [55],
+            "formattedValue": ["55"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "803",
-            "geoName": "Los Angeles CA",
-            "value": [52],
-            "formattedValue": ["52"],
+            "geoCode": "855",
+            "geoName": "Santa Barbara-Santa Maria-San Luis Obispo CA",
+            "value": [54],
+            "formattedValue": ["54"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "569",
+            "geoName": "Harrisonburg VA",
+            "value": [54],
+            "formattedValue": ["54"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "762",
+            "geoName": "Missoula MT",
+            "value": [53],
+            "formattedValue": ["53"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -7551,458 +7445,255 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "619",
-            "geoName": "Springfield MO",
+            "geoCode": "804",
+            "geoName": "Palm Springs CA",
             "value": [51],
             "formattedValue": ["51"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "736",
-            "geoName": "Bowling Green KY",
+            "geoCode": "661",
+            "geoName": "San Angelo TX",
             "value": [50],
             "formattedValue": ["50"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "632",
-            "geoName": "Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL",
-            "value": [50],
-            "formattedValue": ["50"],
+            "geoCode": "770",
+            "geoName": "Salt Lake City UT",
+            "value": [49],
+            "formattedValue": ["49"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "758",
             "geoName": "Idaho Falls-Pocatello ID",
-            "value": [50],
-            "formattedValue": ["50"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "644",
-            "geoName": "Alexandria LA",
-            "value": [50],
-            "formattedValue": ["50"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "825",
-            "geoName": "San Diego CA",
-            "value": [49],
-            "formattedValue": ["49"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "866",
-            "geoName": "Fresno-Visalia CA",
-            "value": [49],
-            "formattedValue": ["49"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "545",
-            "geoName": "Greenville-New Bern-Washington NC",
             "value": [48],
             "formattedValue": ["48"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "521",
-            "geoName": "Providence RI-New Bedford MA",
-            "value": [48],
-            "formattedValue": ["48"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "513",
-            "geoName": "Flint-Saginaw-Bay City MI",
-            "value": [48],
-            "formattedValue": ["48"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "755",
-            "geoName": "Great Falls MT",
-            "value": [48],
-            "formattedValue": ["48"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "709",
-            "geoName": "Tyler-Longview(Lufkin & Nacogdoches) TX",
-            "value": [48],
-            "formattedValue": ["48"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "573",
-            "geoName": "Roanoke-Lynchburg VA",
-            "value": [48],
-            "formattedValue": ["48"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "743",
-            "geoName": "Anchorage AK",
+            "geoCode": "765",
+            "geoName": "El Paso TX",
             "value": [47],
             "formattedValue": ["47"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "752",
-            "geoName": "Colorado Springs-Pueblo CO",
-            "value": [47],
-            "formattedValue": ["47"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "762",
-            "geoName": "Missoula MT",
-            "value": [47],
-            "formattedValue": ["47"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "529",
-            "geoName": "Louisville KY",
-            "value": [47],
-            "formattedValue": ["47"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "789",
-            "geoName": "Tucson (Sierra Vista) AZ",
+            "geoCode": "610",
+            "geoName": "Rockford IL",
             "value": [46],
             "formattedValue": ["46"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "811",
-            "geoName": "Reno NV",
+            "geoCode": "803",
+            "geoName": "Los Angeles CA",
             "value": [46],
             "formattedValue": ["46"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "604",
-            "geoName": "Columbia-Jefferson City MO",
-            "value": [46],
-            "formattedValue": ["46"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "622",
-            "geoName": "New Orleans LA",
-            "value": [46],
-            "formattedValue": ["46"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "766",
-            "geoName": "Helena MT",
-            "value": [46],
-            "formattedValue": ["46"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "642",
-            "geoName": "Lafayette LA",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "537",
-            "geoName": "Bangor ME",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "881",
-            "geoName": "Spokane WA",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "531",
-            "geoName": "Tri-Cities TN-VA",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "641",
-            "geoName": "San Antonio TX",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "507",
-            "geoName": "Savannah GA",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "756",
-            "geoName": "Billings, MT",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "516",
-            "geoName": "Erie PA",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "605",
-            "geoName": "Topeka KS",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "584",
-            "geoName": "Charlottesville VA",
-            "value": [45],
-            "formattedValue": ["45"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "612",
-            "geoName": "Shreveport LA",
-            "value": [44],
-            "formattedValue": ["44"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "813",
-            "geoName": "Medford-Klamath Falls OR",
-            "value": [44],
-            "formattedValue": ["44"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "651",
-            "geoName": "Lubbock TX",
-            "value": [44],
-            "formattedValue": ["44"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "757",
-            "geoName": "Boise ID",
-            "value": [44],
-            "formattedValue": ["44"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "676",
-            "geoName": "Duluth MN-Superior WI",
-            "value": [44],
-            "formattedValue": ["44"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "532",
-            "geoName": "Albany-Schenectady-Troy NY",
-            "value": [43],
-            "formattedValue": ["43"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "625",
-            "geoName": "Waco-Temple-Bryan TX",
-            "value": [43],
-            "formattedValue": ["43"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "631",
-            "geoName": "Ottumwa IA-Kirksville MO",
-            "value": [43],
-            "formattedValue": ["43"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "503",
-            "geoName": "Macon GA",
-            "value": [43],
-            "formattedValue": ["43"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "682",
-            "geoName": "Davenport IA-Rock Island-Moline IL",
-            "value": [43],
-            "formattedValue": ["43"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "862",
-            "geoName": "Sacramento-Stockton-Modesto CA",
-            "value": [43],
-            "formattedValue": ["43"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "691",
-            "geoName": "Huntsville-Decatur (Florence) AL",
-            "value": [43],
-            "formattedValue": ["43"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "502",
-            "geoName": "Binghamton NY",
-            "value": [43],
-            "formattedValue": ["43"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "639",
-            "geoName": "Jackson TN",
-            "value": [43],
-            "formattedValue": ["43"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "565",
             "geoName": "Elmira NY",
+            "value": [46],
+            "formattedValue": ["46"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "839",
+            "geoName": "Las Vegas NV",
+            "value": [46],
+            "formattedValue": ["46"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "521",
+            "geoName": "Providence RI-New Bedford MA",
+            "value": [46],
+            "formattedValue": ["46"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "767",
+            "geoName": "Casper-Riverton WY",
+            "value": [45],
+            "formattedValue": ["45"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "828",
+            "geoName": "Monterey-Salinas CA",
+            "value": [45],
+            "formattedValue": ["45"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "670",
+            "geoName": "Ft. Smith-Fayetteville-Springdale-Rogers AR",
+            "value": [45],
+            "formattedValue": ["45"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "636",
+            "geoName": "Harlingen-Weslaco-Brownsville-McAllen TX",
+            "value": [45],
+            "formattedValue": ["45"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "800",
+            "geoName": "Bakersfield CA",
+            "value": [45],
+            "formattedValue": ["45"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "754",
+            "geoName": "Butte-Bozeman MT",
+            "value": [44],
+            "formattedValue": ["44"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "502",
+            "geoName": "Binghamton NY",
+            "value": [44],
+            "formattedValue": ["44"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "564",
+            "geoName": "Charleston-Huntington WV",
+            "value": [44],
+            "formattedValue": ["44"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "526",
+            "geoName": "Utica NY",
+            "value": [44],
+            "formattedValue": ["44"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "632",
+            "geoName": "Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL",
+            "value": [44],
+            "formattedValue": ["44"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "709",
+            "geoName": "Tyler-Longview(Lufkin & Nacogdoches) TX",
+            "value": [44],
+            "formattedValue": ["44"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "536",
+            "geoName": "Youngstown OH",
+            "value": [43],
+            "formattedValue": ["43"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "644",
+            "geoName": "Alexandria LA",
+            "value": [43],
+            "formattedValue": ["43"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "573",
+            "geoName": "Roanoke-Lynchburg VA",
             "value": [42],
             "formattedValue": ["42"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "582",
-            "geoName": "Lafayette IN",
+            "geoCode": "622",
+            "geoName": "New Orleans LA",
             "value": [42],
             "formattedValue": ["42"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "500",
-            "geoName": "Portland-Auburn ME",
+            "geoCode": "866",
+            "geoName": "Fresno-Visalia CA",
             "value": [42],
             "formattedValue": ["42"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "592",
-            "geoName": "Gainesville FL",
+            "geoCode": "600",
+            "geoName": "Corpus Christi TX",
             "value": [42],
             "formattedValue": ["42"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "538",
-            "geoName": "Rochester NY",
+            "geoCode": "825",
+            "geoName": "San Diego CA",
             "value": [42],
             "formattedValue": ["42"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "650",
-            "geoName": "Oklahoma City OK",
+            "geoCode": "755",
+            "geoName": "Great Falls MT",
             "value": [42],
             "formattedValue": ["42"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "543",
-            "geoName": "Springfield-Holyoke MA",
+            "geoCode": "507",
+            "geoName": "Savannah GA",
             "value": [41],
             "formattedValue": ["41"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "534",
-            "geoName": "Orlando-Daytona Beach-Melbourne FL",
+            "geoCode": "743",
+            "geoName": "Anchorage AK",
             "value": [41],
             "formattedValue": ["41"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "811",
+            "geoName": "Reno NV",
+            "value": [41],
+            "formattedValue": ["41"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "641",
+            "geoName": "San Antonio TX",
+            "value": [40],
+            "formattedValue": ["40"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "577",
             "geoName": "Wilkes Barre-Scranton PA",
-            "value": [41],
-            "formattedValue": ["41"],
+            "value": [40],
+            "formattedValue": ["40"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "820",
-            "geoName": "Portland OR",
-            "value": [41],
-            "formattedValue": ["41"],
+            "geoCode": "789",
+            "geoName": "Tucson (Sierra Vista) AZ",
+            "value": [40],
+            "formattedValue": ["40"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "528",
-            "geoName": "Miami-Ft. Lauderdale FL",
-            "value": [41],
-            "formattedValue": ["41"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "819",
-            "geoName": "Seattle-Tacoma WA",
-            "value": [41],
-            "formattedValue": ["41"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "790",
-            "geoName": "Albuquerque-Santa Fe NM",
-            "value": [41],
-            "formattedValue": ["41"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "643",
-            "geoName": "Lake Charles LA",
-            "value": [41],
-            "formattedValue": ["41"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "616",
-            "geoName": "Kansas City MO",
-            "value": [41],
-            "formattedValue": ["41"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "533",
-            "geoName": "Hartford & New Haven CT",
-            "value": [41],
-            "formattedValue": ["41"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "693",
-            "geoName": "Little Rock-Pine Bluff AR",
-            "value": [41],
-            "formattedValue": ["41"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "634",
-            "geoName": "Amarillo TX",
-            "value": [41],
-            "formattedValue": ["41"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "821",
-            "geoName": "Bend OR",
-            "value": [41],
-            "formattedValue": ["41"],
+            "geoCode": "619",
+            "geoName": "Springfield MO",
+            "value": [40],
+            "formattedValue": ["40"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -8013,456 +7704,379 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "716",
-            "geoName": "Baton Rouge LA",
+            "geoCode": "537",
+            "geoName": "Bangor ME",
             "value": [40],
             "formattedValue": ["40"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "530",
-            "geoName": "Tallahassee FL-Thomasville GA",
+            "geoCode": "821",
+            "geoName": "Bend OR",
             "value": [40],
             "formattedValue": ["40"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "570",
-            "geoName": "Florence-Myrtle Beach SC",
-            "value": [40],
-            "formattedValue": ["40"],
+            "geoCode": "643",
+            "geoName": "Lake Charles LA",
+            "value": [39],
+            "formattedValue": ["39"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "656",
-            "geoName": "Panama City FL",
-            "value": [40],
-            "formattedValue": ["40"],
+            "geoCode": "598",
+            "geoName": "Clarksburg-Weston WV",
+            "value": [39],
+            "formattedValue": ["39"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "555",
-            "geoName": "Syracuse NY",
-            "value": [40],
-            "formattedValue": ["40"],
+            "geoCode": "691",
+            "geoName": "Huntsville-Decatur (Florence) AL",
+            "value": [39],
+            "formattedValue": ["39"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "527",
-            "geoName": "Indianapolis IN",
-            "value": [40],
-            "formattedValue": ["40"],
+            "geoCode": "757",
+            "geoName": "Boise ID",
+            "value": [39],
+            "formattedValue": ["39"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "612",
+            "geoName": "Shreveport LA",
+            "value": [38],
+            "formattedValue": ["38"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "752",
+            "geoName": "Colorado Springs-Pueblo CO",
+            "value": [38],
+            "formattedValue": ["38"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "745",
+            "geoName": "Fairbanks AK",
+            "value": [38],
+            "formattedValue": ["38"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "543",
+            "geoName": "Springfield-Holyoke MA",
+            "value": [38],
+            "formattedValue": ["38"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "625",
+            "geoName": "Waco-Temple-Bryan TX",
+            "value": [37],
+            "formattedValue": ["37"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "881",
+            "geoName": "Spokane WA",
+            "value": [37],
+            "formattedValue": ["37"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "529",
+            "geoName": "Louisville KY",
+            "value": [37],
+            "formattedValue": ["37"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "604",
+            "geoName": "Columbia-Jefferson City MO",
+            "value": [37],
+            "formattedValue": ["37"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "516",
+            "geoName": "Erie PA",
+            "value": [37],
+            "formattedValue": ["37"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "538",
+            "geoName": "Rochester NY",
+            "value": [37],
+            "formattedValue": ["37"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "862",
+            "geoName": "Sacramento-Stockton-Modesto CA",
+            "value": [37],
+            "formattedValue": ["37"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "736",
+            "geoName": "Bowling Green KY",
+            "value": [37],
+            "formattedValue": ["37"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "576",
             "geoName": "Salisbury MD",
-            "value": [40],
-            "formattedValue": ["40"],
+            "value": [37],
+            "formattedValue": ["37"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "635",
-            "geoName": "Austin TX",
-            "value": [40],
-            "formattedValue": ["40"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "764",
-            "geoName": "Rapid City SD",
-            "value": [40],
-            "formattedValue": ["40"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "541",
-            "geoName": "Lexington KY",
-            "value": [40],
-            "formattedValue": ["40"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "548",
-            "geoName": "West Palm Beach-Ft. Pierce FL",
-            "value": [40],
-            "formattedValue": ["40"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "702",
-            "geoName": "La Crosse-Eau Claire WI",
-            "value": [39],
-            "formattedValue": ["39"],
+            "geoCode": "682",
+            "geoName": "Davenport IA-Rock Island-Moline IL",
+            "value": [36],
+            "formattedValue": ["36"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "515",
             "geoName": "Cincinnati OH",
-            "value": [39],
-            "formattedValue": ["39"],
+            "value": [36],
+            "formattedValue": ["36"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "659",
-            "geoName": "Nashville TN",
-            "value": [39],
-            "formattedValue": ["39"],
+            "geoCode": "693",
+            "geoName": "Little Rock-Pine Bluff AR",
+            "value": [36],
+            "formattedValue": ["36"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "751",
-            "geoName": "Denver CO",
-            "value": [39],
-            "formattedValue": ["39"],
+            "geoCode": "530",
+            "geoName": "Tallahassee FL-Thomasville GA",
+            "value": [36],
+            "formattedValue": ["36"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "567",
-            "geoName": "Greenville-Spartanburg SC-Asheville NC-Anderson SC",
-            "value": [39],
-            "formattedValue": ["39"],
+            "geoCode": "819",
+            "geoName": "Seattle-Tacoma WA",
+            "value": [36],
+            "formattedValue": ["36"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "520",
-            "geoName": "Augusta GA",
-            "value": [39],
-            "formattedValue": ["39"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "773",
-            "geoName": "Grand Junction-Montrose CO",
-            "value": [39],
-            "formattedValue": ["39"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "540",
-            "geoName": "Traverse City-Cadillac MI",
-            "value": [39],
-            "formattedValue": ["39"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "504",
-            "geoName": "Philadelphia PA",
-            "value": [39],
-            "formattedValue": ["39"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "563",
-            "geoName": "Grand Rapids-Kalamazoo-Battle Creek MI",
-            "value": [39],
-            "formattedValue": ["39"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "661",
-            "geoName": "San Angelo TX",
-            "value": [39],
-            "formattedValue": ["39"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "754",
-            "geoName": "Butte-Bozeman MT",
-            "value": [38],
-            "formattedValue": ["38"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "544",
-            "geoName": "Norfolk-Portsmouth-Newport News VA",
-            "value": [38],
-            "formattedValue": ["38"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "744",
-            "geoName": "Honolulu HI",
-            "value": [38],
-            "formattedValue": ["38"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "551",
-            "geoName": "Lansing MI",
-            "value": [38],
-            "formattedValue": ["38"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "753",
-            "geoName": "Phoenix AZ",
-            "value": [38],
-            "formattedValue": ["38"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "658",
-            "geoName": "Green Bay-Appleton WI",
-            "value": [38],
-            "formattedValue": ["38"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "523",
-            "geoName": "Burlington VT-Plattsburgh NY",
-            "value": [38],
-            "formattedValue": ["38"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "610",
-            "geoName": "Rockford IL",
-            "value": [38],
-            "formattedValue": ["38"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "501",
-            "geoName": "New York NY",
-            "value": [38],
-            "formattedValue": ["38"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "506",
-            "geoName": "Boston MA-Manchester NH",
-            "value": [38],
-            "formattedValue": ["38"],
+            "geoCode": "534",
+            "geoName": "Orlando-Daytona Beach-Melbourne FL",
+            "value": [36],
+            "formattedValue": ["36"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "539",
             "geoName": "Tampa-St. Petersburg (Sarasota) FL",
-            "value": [38],
-            "formattedValue": ["38"],
+            "value": [36],
+            "formattedValue": ["36"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "513",
+            "geoName": "Flint-Saginaw-Bay City MI",
+            "value": [36],
+            "formattedValue": ["36"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "548",
+            "geoName": "West Palm Beach-Ft. Pierce FL",
+            "value": [36],
+            "formattedValue": ["36"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "528",
+            "geoName": "Miami-Ft. Lauderdale FL",
+            "value": [36],
+            "formattedValue": ["36"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "635",
+            "geoName": "Austin TX",
+            "value": [35],
+            "formattedValue": ["35"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "592",
+            "geoName": "Gainesville FL",
+            "value": [35],
+            "formattedValue": ["35"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "531",
+            "geoName": "Tri-Cities TN-VA",
+            "value": [35],
+            "formattedValue": ["35"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "545",
+            "geoName": "Greenville-New Bern-Washington NC",
+            "value": [35],
+            "formattedValue": ["35"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "500",
+            "geoName": "Portland-Auburn ME",
+            "value": [35],
+            "formattedValue": ["35"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "570",
+            "geoName": "Florence-Myrtle Beach SC",
+            "value": [35],
+            "formattedValue": ["35"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "820",
+            "geoName": "Portland OR",
+            "value": [35],
+            "formattedValue": ["35"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "702",
+            "geoName": "La Crosse-Eau Claire WI",
+            "value": [35],
+            "formattedValue": ["35"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "656",
+            "geoName": "Panama City FL",
+            "value": [35],
+            "formattedValue": ["35"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "555",
+            "geoName": "Syracuse NY",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "616",
+            "geoName": "Kansas City MO",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "751",
+            "geoName": "Denver CO",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "744",
+            "geoName": "Honolulu HI",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "753",
+            "geoName": "Phoenix AZ",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "773",
+            "geoName": "Grand Junction-Montrose CO",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "659",
+            "geoName": "Nashville TN",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "527",
+            "geoName": "Indianapolis IN",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "790",
+            "geoName": "Albuquerque-Santa Fe NM",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "533",
+            "geoName": "Hartford & New Haven CT",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "532",
+            "geoName": "Albany-Schenectady-Troy NY",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "575",
+            "geoName": "Chattanooga TN",
+            "value": [34],
+            "formattedValue": ["34"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "504",
+            "geoName": "Philadelphia PA",
+            "value": [33],
+            "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "563",
+            "geoName": "Grand Rapids-Kalamazoo-Battle Creek MI",
+            "value": [33],
+            "formattedValue": ["33"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "566",
             "geoName": "Harrisburg-Lancaster-Lebanon-York PA",
-            "value": [37],
-            "formattedValue": ["37"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "512",
-            "geoName": "Baltimore MD",
-            "value": [37],
-            "formattedValue": ["37"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "649",
-            "geoName": "Evansville IN",
-            "value": [37],
-            "formattedValue": ["37"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "623",
-            "geoName": "Dallas-Ft. Worth TX",
-            "value": [36],
-            "formattedValue": ["36"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "556",
-            "geoName": "Richmond-Petersburg VA",
-            "value": [36],
-            "formattedValue": ["36"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "546",
-            "geoName": "Columbia SC",
-            "value": [36],
-            "formattedValue": ["36"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "508",
-            "geoName": "Pittsburgh PA",
-            "value": [36],
-            "formattedValue": ["36"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "648",
-            "geoName": "Champaign & Springfield-Decatur IL",
-            "value": [36],
-            "formattedValue": ["36"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "557",
-            "geoName": "Knoxville TN",
-            "value": [36],
-            "formattedValue": ["36"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "718",
-            "geoName": "Jackson MS",
-            "value": [36],
-            "formattedValue": ["36"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "618",
-            "geoName": "Houston TX",
-            "value": [36],
-            "formattedValue": ["36"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "627",
-            "geoName": "Wichita Falls TX & Lawton OK",
-            "value": [36],
-            "formattedValue": ["36"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "603",
-            "geoName": "Joplin MO-Pittsburg KS",
-            "value": [35],
-            "formattedValue": ["35"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "561",
-            "geoName": "Jacksonville FL",
-            "value": [35],
-            "formattedValue": ["35"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "675",
-            "geoName": "Peoria-Bloomington IL",
-            "value": [35],
-            "formattedValue": ["35"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "692",
-            "geoName": "Beaumont-Port Arthur TX",
-            "value": [35],
-            "formattedValue": ["35"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "560",
-            "geoName": "Raleigh-Durham (Fayetteville) NC",
-            "value": [35],
-            "formattedValue": ["35"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "535",
-            "geoName": "Columbus OH",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "510",
-            "geoName": "Cleveland-Akron (Canton) OH",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "524",
-            "geoName": "Atlanta GA",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "662",
-            "geoName": "Abilene-Sweetwater TX",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "609",
-            "geoName": "St. Louis MO",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "669",
-            "geoName": "Madison WI",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "686",
-            "geoName": "Mobile AL-Pensacola (Ft. Walton Beach) FL",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "519",
-            "geoName": "Charleston SC",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "725",
-            "geoName": "Sioux Falls(Mitchell) SD",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "505",
-            "geoName": "Detroit MI",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "705",
-            "geoName": "Wausau-Rhinelander WI",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "571",
-            "geoName": "Ft. Myers-Naples FL",
-            "value": [34],
-            "formattedValue": ["34"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "514",
-            "geoName": "Buffalo NY",
             "value": [33],
             "formattedValue": ["33"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "554",
-            "geoName": "Wheeling WV-Steubenville OH",
-            "value": [33],
-            "formattedValue": ["33"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "717",
-            "geoName": "Quincy IL-Hannibal MO-Keokuk IA",
+            "geoCode": "698",
+            "geoName": "Montgomery (Selma) AL",
             "value": [33],
             "formattedValue": ["33"],
             "maxValueIndex": 0,
@@ -8475,10 +8089,150 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "759",
-            "geoName": "Cheyenne WY-Scottsbluff NE",
+            "geoCode": "523",
+            "geoName": "Burlington VT-Plattsburgh NY",
             "value": [33],
             "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "567",
+            "geoName": "Greenville-Spartanburg SC-Asheville NC-Anderson SC",
+            "value": [33],
+            "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "571",
+            "geoName": "Ft. Myers-Naples FL",
+            "value": [33],
+            "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "520",
+            "geoName": "Augusta GA",
+            "value": [33],
+            "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "868",
+            "geoName": "Chico-Redding CA",
+            "value": [33],
+            "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "650",
+            "geoName": "Oklahoma City OK",
+            "value": [33],
+            "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "676",
+            "geoName": "Duluth MN-Superior WI",
+            "value": [33],
+            "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "546",
+            "geoName": "Columbia SC",
+            "value": [33],
+            "formattedValue": ["33"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "705",
+            "geoName": "Wausau-Rhinelander WI",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "501",
+            "geoName": "New York NY",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "584",
+            "geoName": "Charlottesville VA",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "623",
+            "geoName": "Dallas-Ft. Worth TX",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "651",
+            "geoName": "Lubbock TX",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "541",
+            "geoName": "Lexington KY",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "556",
+            "geoName": "Richmond-Petersburg VA",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "673",
+            "geoName": "Columbus-Tupelo-West Point MS",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "631",
+            "geoName": "Ottumwa IA-Kirksville MO",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "512",
+            "geoName": "Baltimore MD",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "652",
+            "geoName": "Omaha NE",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "633",
+            "geoName": "Odessa-Midland TX",
+            "value": [32],
+            "formattedValue": ["32"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "506",
+            "geoName": "Boston MA-Manchester NH",
+            "value": [32],
+            "formattedValue": ["32"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -8489,71 +8243,57 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "722",
-            "geoName": "Lincoln & Hastings-Kearney NE",
+            "geoCode": "658",
+            "geoName": "Green Bay-Appleton WI",
             "value": [32],
             "formattedValue": ["32"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "517",
-            "geoName": "Charlotte NC",
+            "geoCode": "686",
+            "geoName": "Mobile AL-Pensacola (Ft. Walton Beach) FL",
             "value": [32],
             "formattedValue": ["32"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "575",
-            "geoName": "Chattanooga TN",
-            "value": [32],
-            "formattedValue": ["32"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "518",
-            "geoName": "Greensboro-High Point-Winston Salem NC",
-            "value": [32],
-            "formattedValue": ["32"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "602",
-            "geoName": "Chicago IL",
-            "value": [32],
-            "formattedValue": ["32"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "652",
-            "geoName": "Omaha NE",
+            "geoCode": "503",
+            "geoName": "Macon GA",
             "value": [31],
             "formattedValue": ["31"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "687",
-            "geoName": "Minot-Bismarck-Dickinson(Williston) ND",
+            "geoCode": "618",
+            "geoName": "Houston TX",
             "value": [31],
             "formattedValue": ["31"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "626",
-            "geoName": "Victoria TX",
+            "geoCode": "716",
+            "geoName": "Baton Rouge LA",
             "value": [31],
             "formattedValue": ["31"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "737",
-            "geoName": "Mankato MN",
+            "geoCode": "718",
+            "geoName": "Jackson MS",
             "value": [31],
             "formattedValue": ["31"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "630",
-            "geoName": "Birmingham AL",
+            "geoCode": "535",
+            "geoName": "Columbus OH",
+            "value": [31],
+            "formattedValue": ["31"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "508",
+            "geoName": "Pittsburgh PA",
             "value": [31],
             "formattedValue": ["31"],
             "maxValueIndex": 0,
@@ -8566,38 +8306,136 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "640",
-            "geoName": "Memphis TN",
+            "geoCode": "551",
+            "geoName": "Lansing MI",
             "value": [31],
             "formattedValue": ["31"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "581",
-            "geoName": "Terre Haute IN",
+            "geoCode": "510",
+            "geoName": "Cleveland-Akron (Canton) OH",
             "value": [31],
             "formattedValue": ["31"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "542",
-            "geoName": "Dayton OH",
+            "geoCode": "648",
+            "geoName": "Champaign & Springfield-Decatur IL",
             "value": [31],
             "formattedValue": ["31"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "613",
-            "geoName": "Minneapolis-St. Paul MN",
+            "geoCode": "813",
+            "geoName": "Medford-Klamath Falls OR",
+            "value": [31],
+            "formattedValue": ["31"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "627",
+            "geoName": "Wichita Falls TX & Lawton OK",
+            "value": [31],
+            "formattedValue": ["31"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "628",
+            "geoName": "Monroe LA-El Dorado AR",
+            "value": [31],
+            "formattedValue": ["31"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "722",
+            "geoName": "Lincoln & Hastings-Kearney NE",
+            "value": [31],
+            "formattedValue": ["31"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "557",
+            "geoName": "Knoxville TN",
+            "value": [31],
+            "formattedValue": ["31"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "561",
+            "geoName": "Jacksonville FL",
+            "value": [31],
+            "formattedValue": ["31"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "675",
+            "geoName": "Peoria-Bloomington IL",
             "value": [30],
             "formattedValue": ["30"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "637",
-            "geoName": "Cedar Rapids-Waterloo-Iowa City & Dubuque IA",
+            "geoCode": "519",
+            "geoName": "Charleston SC",
             "value": [30],
             "formattedValue": ["30"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "544",
+            "geoName": "Norfolk-Portsmouth-Newport News VA",
+            "value": [30],
+            "formattedValue": ["30"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "649",
+            "geoName": "Evansville IN",
+            "value": [30],
+            "formattedValue": ["30"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "639",
+            "geoName": "Jackson TN",
+            "value": [30],
+            "formattedValue": ["30"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "605",
+            "geoName": "Topeka KS",
+            "value": [30],
+            "formattedValue": ["30"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "609",
+            "geoName": "St. Louis MO",
+            "value": [30],
+            "formattedValue": ["30"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "642",
+            "geoName": "Lafayette LA",
+            "value": [29],
+            "formattedValue": ["29"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "554",
+            "geoName": "Wheeling WV-Steubenville OH",
+            "value": [29],
+            "formattedValue": ["29"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "582",
+            "geoName": "Lafayette IN",
+            "value": [29],
+            "formattedValue": ["29"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -8608,73 +8446,171 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "633",
-            "geoName": "Odessa-Midland TX",
+            "geoCode": "630",
+            "geoName": "Birmingham AL",
             "value": [29],
             "formattedValue": ["29"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "559",
-            "geoName": "Bluefield-Beckley-Oak Hill WV",
+            "geoCode": "514",
+            "geoName": "Buffalo NY",
             "value": [29],
             "formattedValue": ["29"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "560",
+            "geoName": "Raleigh-Durham (Fayetteville) NC",
+            "value": [29],
+            "formattedValue": ["29"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "540",
+            "geoName": "Traverse City-Cadillac MI",
+            "value": [29],
+            "formattedValue": ["29"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "717",
+            "geoName": "Quincy IL-Hannibal MO-Keokuk IA",
+            "value": [29],
+            "formattedValue": ["29"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "518",
+            "geoName": "Greensboro-High Point-Winston Salem NC",
+            "value": [29],
+            "formattedValue": ["29"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "602",
+            "geoName": "Chicago IL",
+            "value": [29],
+            "formattedValue": ["29"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "634",
+            "geoName": "Amarillo TX",
+            "value": [29],
+            "formattedValue": ["29"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "524",
+            "geoName": "Atlanta GA",
+            "value": [28],
+            "formattedValue": ["28"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "692",
+            "geoName": "Beaumont-Port Arthur TX",
+            "value": [28],
+            "formattedValue": ["28"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "756",
+            "geoName": "Billings, MT",
+            "value": [28],
+            "formattedValue": ["28"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "517",
+            "geoName": "Charlotte NC",
+            "value": [28],
+            "formattedValue": ["28"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "764",
+            "geoName": "Rapid City SD",
+            "value": [27],
+            "formattedValue": ["27"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "669",
+            "geoName": "Madison WI",
+            "value": [27],
+            "formattedValue": ["27"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "725",
+            "geoName": "Sioux Falls(Mitchell) SD",
+            "value": [27],
+            "formattedValue": ["27"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "737",
+            "geoName": "Mankato MN",
+            "value": [27],
+            "formattedValue": ["27"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "542",
+            "geoName": "Dayton OH",
+            "value": [27],
+            "formattedValue": ["27"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "679",
             "geoName": "Des Moines-Ames IA",
-            "value": [28],
-            "formattedValue": ["28"],
+            "value": [26],
+            "formattedValue": ["26"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "505",
+            "geoName": "Detroit MI",
+            "value": [26],
+            "formattedValue": ["26"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "509",
             "geoName": "Ft. Wayne IN",
-            "value": [28],
-            "formattedValue": ["28"],
+            "value": [26],
+            "formattedValue": ["26"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "637",
+            "geoName": "Cedar Rapids-Waterloo-Iowa City & Dubuque IA",
+            "value": [26],
+            "formattedValue": ["26"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "613",
+            "geoName": "Minneapolis-St. Paul MN",
+            "value": [26],
+            "formattedValue": ["26"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "617",
             "geoName": "Milwaukee WI",
-            "value": [28],
-            "formattedValue": ["28"],
+            "value": [25],
+            "formattedValue": ["25"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "698",
-            "geoName": "Montgomery (Selma) AL",
-            "value": [28],
-            "formattedValue": ["28"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "810",
-            "geoName": "Yakima-Pasco-Richland-Kennewick WA",
-            "value": [28],
-            "formattedValue": ["28"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "628",
-            "geoName": "Monroe LA-El Dorado AR",
-            "value": [28],
-            "formattedValue": ["28"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "734",
-            "geoName": "Jonesboro AR",
-            "value": [28],
-            "formattedValue": ["28"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "611",
-            "geoName": "Rochester MN-Mason City IA-Austin MN",
-            "value": [27],
-            "formattedValue": ["27"],
+            "geoCode": "759",
+            "geoName": "Cheyenne WY-Scottsbluff NE",
+            "value": [25],
+            "formattedValue": ["25"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -8685,24 +8621,59 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "522",
-            "geoName": "Columbus GA",
+            "geoCode": "746",
+            "geoName": "Biloxi-Gulfport MS",
+            "value": [25],
+            "formattedValue": ["25"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "640",
+            "geoName": "Memphis TN",
             "value": [24],
             "formattedValue": ["24"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "606",
-            "geoName": "Dothan AL",
+            "geoCode": "810",
+            "geoName": "Yakima-Pasco-Richland-Kennewick WA",
             "value": [24],
             "formattedValue": ["24"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "868",
-            "geoName": "Chico-Redding CA",
-            "value": [23],
-            "formattedValue": ["23"],
+            "geoCode": "734",
+            "geoName": "Jonesboro AR",
+            "value": [24],
+            "formattedValue": ["24"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "581",
+            "geoName": "Terre Haute IN",
+            "value": [24],
+            "formattedValue": ["24"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "766",
+            "geoName": "Helena MT",
+            "value": [24],
+            "formattedValue": ["24"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "687",
+            "geoName": "Minot-Bismarck-Dickinson(Williston) ND",
+            "value": [22],
+            "formattedValue": ["22"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "662",
+            "geoName": "Abilene-Sweetwater TX",
+            "value": [22],
+            "formattedValue": ["22"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -8713,38 +8684,59 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "511",
-            "geoName": "Washington DC (Hagerstown MD)",
+            "geoCode": "611",
+            "geoName": "Rochester MN-Mason City IA-Austin MN",
+            "value": [22],
+            "formattedValue": ["22"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "522",
+            "geoName": "Columbus GA",
             "value": [21],
             "formattedValue": ["21"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "549",
-            "geoName": "Watertown NY",
+            "geoCode": "678",
+            "geoName": "Wichita-Hutchinson KS",
             "value": [21],
             "formattedValue": ["21"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "746",
-            "geoName": "Biloxi-Gulfport MS",
-            "value": [21],
-            "formattedValue": ["21"],
-            "maxValueIndex": 0,
-            "hasData": [true]
-        }, {
-            "geoCode": "807",
-            "geoName": "San Francisco-Oakland-San Jose CA",
-            "value": [19],
-            "formattedValue": ["19"],
+            "geoCode": "626",
+            "geoName": "Victoria TX",
+            "value": [20],
+            "formattedValue": ["20"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
             "geoCode": "550",
             "geoName": "Wilmington NC",
-            "value": [18],
-            "formattedValue": ["18"],
+            "value": [19],
+            "formattedValue": ["19"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "511",
+            "geoName": "Washington DC (Hagerstown MD)",
+            "value": [19],
+            "formattedValue": ["19"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "807",
+            "geoName": "San Francisco-Oakland-San Jose CA",
+            "value": [17],
+            "formattedValue": ["17"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "603",
+            "geoName": "Joplin MO-Pittsburg KS",
+            "value": [17],
+            "formattedValue": ["17"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
@@ -8755,15 +8747,15 @@
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "525",
-            "geoName": "Albany GA",
-            "value": [17],
-            "formattedValue": ["17"],
+            "geoCode": "606",
+            "geoName": "Dothan AL",
+            "value": [16],
+            "formattedValue": ["16"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "678",
-            "geoName": "Wichita-Hutchinson KS",
+            "geoCode": "525",
+            "geoName": "Albany GA",
             "value": [15],
             "formattedValue": ["15"],
             "maxValueIndex": 0,
@@ -8771,13 +8763,27 @@
         }, {
             "geoCode": "760",
             "geoName": "Twin Falls ID",
-            "value": [14],
-            "formattedValue": ["14"],
+            "value": [12],
+            "formattedValue": ["12"],
             "maxValueIndex": 0,
             "hasData": [true]
         }, {
-            "geoCode": "597",
-            "geoName": "Parkersburg WV",
+            "geoCode": "549",
+            "geoName": "Watertown NY",
+            "value": [12],
+            "formattedValue": ["12"],
+            "maxValueIndex": 0,
+            "hasData": [true]
+        }, {
+            "geoCode": "583",
+            "geoName": "Alpena MI",
+            "value": [0],
+            "formattedValue": [""],
+            "maxValueIndex": 0,
+            "hasData": [false]
+        }, {
+            "geoCode": "798",
+            "geoName": "Glendive MT",
             "value": [0],
             "formattedValue": [""],
             "maxValueIndex": 0,
@@ -8797,8 +8803,8 @@
             "maxValueIndex": 0,
             "hasData": [false]
         }, {
-            "geoCode": "647",
-            "geoName": "Greenwood-Greenville MS",
+            "geoCode": "597",
+            "geoName": "Parkersburg WV",
             "value": [0],
             "formattedValue": [""],
             "maxValueIndex": 0,
@@ -8818,15 +8824,8 @@
             "maxValueIndex": 0,
             "hasData": [false]
         }, {
-            "geoCode": "583",
-            "geoName": "Alpena MI",
-            "value": [0],
-            "formattedValue": [""],
-            "maxValueIndex": 0,
-            "hasData": [false]
-        }, {
-            "geoCode": "798",
-            "geoName": "Glendive MT",
+            "geoCode": "647",
+            "geoName": "Greenwood-Greenville MS",
             "value": [0],
             "formattedValue": [""],
             "maxValueIndex": 0,
