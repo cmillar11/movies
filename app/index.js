@@ -23,40 +23,63 @@ function readCSVFile (inputPath, cb) {
 
 async function main () {
     let dataObjectDone = false;
-    let lastStartYear = false;
-    // there's probably a better way to keep track of time but it works
-    const years = ['2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']; 
+
+    const genres = [
+{genre: 'Action', movies: ['Captain America: Civil War', 
+'Batman v Superman: Dawn of Justice', 
+'Suicide Squad'
+]}, {genre: 'SciFi', movies: ['Star Trek Beyond',
+	'Rogue One: A Star Wars Story',
+	'Independence Day: Resurgence'
+]}, {genre: 'Comedy', movies: ['Finding Dory', 'Deadpool',
+	'Zootopia'
+]}, {genre: 'Drama', movies: ['Hidden Figures',
+	'La La Land',
+	'Me Before You'
+]}, {genre: 'Animated', movies: ['Finding Dory',
+	'Secret Life of Pets',
+	'Zootopia'
+]}, {genre: 'Fantasy', movies: ['The Jungle Book',
+	'Fantastic Beasts and Where to Find Them',
+	'Ghostbusters'
+]}, {genre: 'Horror', movies: ['The Conjuring 2',
+	'The Purge: Election Year',
+	'Don’t Breathe'
+]}];
+
 
     readCSVFile(moviesListPath, async function getMovieNames(err, result) {
-        const movieNames = $.csv.toObjects(result);
+        // const movieNames = $.csv.toObjects(result);
 
-        movieNames.forEach(movie => {
-            movie.Name = movie.Name.slice(0, movie.Name.indexOf('('))
-        })
+        // movieNames.forEach(movie => {
+        //     movie.Name = movie.Name.slice(0, movie.Name.indexOf('('))
+        // })
         let dataObj = {};
 
-        for (let i = 0; i < 1; i++) { // iterating through movies
-            // setTimeout(function(){ console.log('wait!') }, 250);
+        for (let i = 0; i < genres.length; i++) { // iterating through genres
 
-            dataObj[movieNames[i].Name] = [];
+            let genre = genres[i].genre
+            dataObj[genre] = [];
 
-            for (let y = 0; y < years.length - 1; y++) { // iterating through years
+            for (let j = 0; j < 3; j++) {
+                let movie = genres[i].movies[j]
 
-                await googleTrends.interestByRegion({keyword: movieNames[i].Name, startTime: new Date(years[y]), endTime: new Date(years[y+1]), geo: 'US', resolution: 'DMA'})
+                await googleTrends.interestByRegion({keyword: movie, startTime: new Date(2016), endTime: new Date(2017), geo: 'US', resolution: 'DMA'})
                     .then((results) => { 
+                        dataObj[genre][movie] = [];
                         const obj = JSON.parse(results)
+
                         let yearRow = {};
-                        yearRow[years[y]] = obj.default.geoMapData;
-                        dataObj[movieNames[i].Name].push(yearRow);
+                        yearRow[2016] = obj.default.geoMapData;
+                        dataObj[genre][movie].push(yearRow);
                         // console.log('modified data obj movie ', JSON.stringify(dataObj[movieNames[i].Name]));
 
-                        // on last movie and range of years, so write object containing all accumulated results to file
-                        dataObjectDone = (i == 0);
-                        lastStartYear = (y == years.length - 2);
+                        // on last movie of last genre, so write object containing all accumulated results to file
+                        dataObjectDone = (i == genres.length - 1 && j == 2);
 
-                        if (dataObjectDone && lastStartYear) {
+                        if (dataObjectDone) {
                             console.log('data being written ', dataObj);
-                            fs.appendFile(__dirname + '/data/my_file.json', JSON.stringify(dataObj), (err) => {
+                            fs.appendFile(__dirname + '/data/2016MoviesByGenre.json', JSON.stringify(dataObj), (err) => {
                                 if (err) throw err;
                                 console.log('appended!')
                             })  
@@ -65,11 +88,60 @@ async function main () {
                     .catch((err) => {
                         console.log(err);
                     })
-                }
+            } 
+               
         }
+        // console.log(JSON.stringify(dataObj))
     })
 }
 
-main()
-//console.log(getCSVFile([moviesListPath, genresInputPath]))
+// main()
 
+//     readCSVFile(moviesListPath, async function getMovieNames(err, result) {
+//         const movieNames = $.csv.toObjects(result);
+
+//         movieNames.forEach(movie => {
+//             movie.Name = movie.Name.slice(0, movie.Name.indexOf('('))
+//         })
+//         let dataObj = {};
+//         let numQueries = 0;
+//         for (let i = 0; i < movieNames.length; i++) { // iterating through movies
+//             // setTimeout(function(){ console.log('wait!') }, 250);
+
+//             dataObj[movieNames[i].Name] = [];
+
+//             for (let y = 0; y < years.length - 1; y++) { // iterating through years
+//                 console.log(numQueries)
+//                 setTimeout(function(){ console.log('wait!') }, 1000);
+//                 numQueries++;
+
+//                 // await with a time, await for it to actually finish
+//                 await googleTrends.interestByRegion({keyword: movieNames[i].Name, startTime: new Date(years[y]), endTime: new Date(years[y+1]), geo: 'US', resolution: 'DMA'})
+//                     .then((results) => { 
+//                         const obj = JSON.parse(results)
+//                         let yearRow = {};
+//                         yearRow[years[y]] = obj.default.geoMapData;
+//                         dataObj[movieNames[i].Name].push(yearRow);
+//                         // console.log('modified data obj movie ', JSON.stringify(dataObj[movieNames[i].Name]));
+
+//                         // on last movie and range of years, so write object containing all accumulated results to file
+//                         dataObjectDone = (i == movieNames.length - 2);
+//                         lastStartYear = (y == years.length - 2);
+
+//                         if (dataObjectDone && lastStartYear) {
+//                             console.log('data being written ', dataObj);
+//                             // fs.appendFile(__dirname + '/data/my_file.json', JSON.stringify(dataObj), (err) => {
+//                             //     if (err) throw err;
+//                             //     console.log('appended!')
+//                             // })  
+//                         }
+//                     })
+//                     .catch((err) => {
+//                         console.log(err);
+//                     })
+//                 }
+//         }
+//     })
+// }
+
+main()
